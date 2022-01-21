@@ -1,1 +1,21 @@
-Hello CSS
+body {
+    background-color: black;
+}
+
+header {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: white;
+    font-size: 50px;
+}
+
+header a {
+    color: aquamarine;
+    font-size: 16px;
+}
