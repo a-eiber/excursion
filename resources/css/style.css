@@ -1,21 +1,31 @@
 body {
     background-color: black;
-}
-
-header {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: normal;
+    color: white;
 }
 
-header h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+h1 {
     font-weight: normal;
-    color: white;
     font-size: 50px;
 }
 
-header a {
+a {
     color: aquamarine;
     font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;  
+}
+
+.pic-title {
+    color: gray;
+    font-size: 21px; 
+}
+
+.footer {
+    text-align: right;
+    color: gray;
 }
